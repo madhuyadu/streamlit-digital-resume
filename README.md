@@ -1,2 +1,2 @@
 # streamlit-digital-resume
-Using Streamlit  to create a digital CV
+Using Python and Streamlit  to create a digital CV
