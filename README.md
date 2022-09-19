@@ -33,9 +33,11 @@ Dashboard view
 ![image](https://user-images.githubusercontent.com/56335301/190957126-56f114f3-21ae-4674-b402-290c0f7cd300.png)
 
 This is all you need to do for sharing your app !! </br>
-Input your git repo details - name & branch name, provide the application name to start
+Input your git repo name & branch name, provide the application name to start
 ![image](https://user-images.githubusercontent.com/56335301/190957247-3239d21f-4264-472c-9436-522360f8464e.png)
 
+Digital CV in action on streamlit cloud :-)
+![image](https://user-images.githubusercontent.com/56335301/190957486-1f362d84-b682-41c7-a9be-56b30511129f.png)
 
 
 
